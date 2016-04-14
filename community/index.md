@@ -407,10 +407,10 @@ Before adding a plugin to this list, it must be tested for compatibility using t
 
   <table class="stats">
   <tr><td>Since Akka version:</td><td>2.3.4</td></tr>
-  <tr><td>Latest Akka version:</td><td>2.4.2</td></tr>
+  <tr><td>Latest Akka version:</td><td>2.4.4</td></tr>
   <tr>
     <td>Latest Release:</td>
-      <td><code>"com.github.dnvriend" %% "akka-persistence-inmemory" % "1.2.8"</code> (March 3, 2016)</td>
+      <td><code>"com.github.dnvriend" %% "akka-persistence-inmemory" % "1.2.13"</code> (April 14, 2016)</td>
   </tr>
   </table>
 
@@ -437,11 +437,11 @@ Before adding a plugin to this list, it must be tested for compatibility using t
 
   <table class="stats">
   <tr><td>Since Akka version:</td><td>2.3.2</td></tr>
-  <tr><td>Latest Akka version:</td><td>2.4.2</td></tr>
+  <tr><td>Latest Akka version:</td><td>2.4.4</td></tr>
   <tr>
     <td>Latest Release:</td>
     <td>
-      <td><code>"com.github.dnvriend" %% "akka-persistence-jdbc" % "2.2.11"</code> (March 9, 2016)</td>
+      <td><code>"com.github.dnvriend" %% "akka-persistence-jdbc" % "2.2.17"</code> (April 14, 2016)</td>
     </td>
   </tr>
   </table>
@@ -584,10 +584,10 @@ Before adding a plugin to this list, it must be tested for compatibility using t
 
   <table class="stats">
   <tr><td>Since Akka version:</td><td>2.3.4</td></tr>
-  <tr><td>Latest Akka version:</td><td>2.4.2</td></tr>
+  <tr><td>Latest Akka version:</td><td>2.4.4</td></tr>
   <tr>
     <td>Latest Release:</td>
-      <td><code>"com.github.dnvriend" %% "akka-persistence-inmemory" % "1.2.8"</code> (March 3, 2016)</td>
+      <td><code>"com.github.dnvriend" %% "akka-persistence-inmemory" % "1.2.13"</code> (April 14, 2016)</td>
   </tr>
   </table>
 
@@ -599,11 +599,11 @@ Before adding a plugin to this list, it must be tested for compatibility using t
 
   <table class="stats">
   <tr><td>Since Akka version:</td><td>2.3.2</td></tr>
-  <tr><td>Latest Akka version:</td><td>2.4.2</td></tr>
+  <tr><td>Latest Akka version:</td><td>2.4.4</td></tr>
   <tr>
     <td>Latest Release:</td>
     <td>
-      <td><code>"com.github.dnvriend" %% "akka-persistence-jdbc" % "2.2.11"</code> (March 9, 2016)</td>
+      <td><code>"com.github.dnvriend" %% "akka-persistence-jdbc" % "2.2.17"</code> (April 14, 2016)</td>
     </td>
   </tr>
   </table>
